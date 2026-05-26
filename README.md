@@ -1,4 +1,4 @@
-# BMS Preview Generator
+# bms-pv - a BMS preview generator
 
 Generate preview audio files in .ogg format for Be-Music Source (.bms) files, intended for use with [Beatoraja](https://github.com/exch-bms2/beatoraja).
 
